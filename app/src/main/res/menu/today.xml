@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/myaccount"
+        android:title="My Account"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item1"
+    android:title="babies"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/item"
+        android:title="Settings"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item2"
+        android:title="No:of pregnant women"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/sub1"
+                android:title="Area"
+                />
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        />
+
+
+
+
+</menu>
